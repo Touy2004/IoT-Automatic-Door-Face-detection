@@ -20,5 +20,5 @@ For Window: `pip install paho-mqtt`<br/>
 <br/>
 How to use it<br/>
 1. for run face detection `cd face-detection` and run mac: `python3 app.py` or window: `python app.py`<br/>
-2. next run file `index.html`
+2. next run file `index.html`<br/>
 3. upload firmware to ur micro controller
